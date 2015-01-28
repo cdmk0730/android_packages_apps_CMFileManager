@@ -1061,7 +1061,8 @@ public class NavigationActivity extends Activity
                 final int index = mDrawerBookmarks.indexOfChild(v);
                 final Bookmark bookmark = mBookmarks.get(index);
 
-                boolean showEasyMode = (mSdBookmarks.contains(bookmark));
+                boolean showEasyMode = (mSdBookmarks.contains(bookmark)) &&
+                        getResources().getBoolean(R.bool.cmcc_show_easy_mode);
 
                 // try to navigate to the bookmark path
                 try {
@@ -1451,16 +1452,21 @@ public class NavigationActivity extends Activity
                 performHideEasyMode();
                 return;
             case 1:
-                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE, MimeTypeCategory.IMAGE);
+                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE,
+                        new MimeTypeCategory[] { MimeTypeCategory.IMAGE });
                 break;
             case 2:
-                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE, MimeTypeCategory.VIDEO);
+                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE,
+                        new MimeTypeCategory[] { MimeTypeCategory.VIDEO });
                 break;
             case 3:
-                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE, MimeTypeCategory.AUDIO);
+                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE,
+                        new MimeTypeCategory[] { MimeTypeCategory.AUDIO });
                 break;
             case 4:
-                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE, MimeTypeCategory.DOCUMENT);
+                // search for both DOCUMENT and TEXT mime types
+                MimeTypeCategory[] categories = { MimeTypeCategory.DOCUMENT, MimeTypeCategory.TEXT };
+                intent.putExtra(SearchActivity.EXTRA_SEARCH_MIMETYPE, categories);
                 break;
         }
         startActivity(intent);
@@ -1624,6 +1630,9 @@ public class NavigationActivity extends Activity
                 break;
             }
         }
+
+        needsEasyMode = needsEasyMode
+                && getResources().getBoolean(R.bool.cmcc_show_easy_mode);
         if (needsEasyMode) {
             performShowEasyMode();
         } else {
