@@ -508,7 +508,7 @@
     <!-- Enter Name Dialog - Message - Invalid name -->
     <string name="input_name_dialog_message_invalid_path_name">Invalid name. The characters \'<xliff:g id="invalid_characters">%1$s</xliff:g>\' are not allowed.</string>
     <!-- Enter Name Dialog - Message - Invalid name length -->
-    <string name="input_name_dialog_message_invalid_name_length">File name is too long, please consider something 255 characters or less.</string>
+    <string name="input_name_dialog_message_invalid_name_length">Maximum character limit reached.</string>
     <!-- Enter Name Dialog - Message - Invalid name -->
     <string name="input_name_dialog_message_invalid_name">Invalid name. The names \'.\' and \'..\' are not allowed.</string>
     <!-- Enter Name Dialog - Message - Name exists -->
@@ -816,9 +816,7 @@
     <!-- Secure Storage unlock validation, equal -->
     <string name="secure_storage_unlock_validation_equals">Passwords do not match.</string>
     <!-- Secure storage open file warning -->
-    <string name="secure_storage_open_file_warning">This will copy the file out to a temporary
-        unencrypted location.  This will be cleared after 1 hour.</string>
-
+    <string name="secure_storage_open_file_warning">This will copy the file out to a temporary unencrypted location. This will be cleared after 1 hour.</string>
 
     <!-- Print messages -->
     <!-- Unsupported document format -->
