@@ -411,6 +411,5 @@
   <string name="security_warning_extract">Uwaga!\n\n\n    Wyodrębnienie pliku archiwum z ścieżkami względnymi lub bezwzględnymi może spowodować uszkodzenie urządzenia poprzez nadpisanie plików systemowych.\n\n\n    Czy chcesz kontynuować?</string>
   <string name="changelog_title">Lista zmian</string>
   <string name="welcome_title">Witaj</string>
-  <string name="welcome_msg">\n    Witaj w Menedżerze plików CyanogenMod.\n    \n\nAplikacja ta pozwala Ci przeglądać pliki systemowe i wykonywać czynności, które mogą uszkodzić urządzenie. Aby zapobiec ewentualnym szkodom, aplikacja zostanie uruchomiona w bezpiecznym trybie bez podwyższonych uprawnień.\n    \n\nTryb z pełnymi uprawnieniami możesz aktywować w ustawieniach aplikacji. Ponosisz odpowiedzialność za to, by swoimi działaniami nie doprowadzić do uszkodzenia systemu.\n    \n\nZespół CyanogenMod.\n</string>
   <string name="activity_not_found_exception">Nie znaleziono aplikacji do otwarcia tego pliku</string>
 </resources>

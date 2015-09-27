@@ -398,6 +398,5 @@
   <string name="security_warning_extract">Avertizare!\n\nExtragerea unui fișier arhivă cu căi relative sau absolute poate cauza defecțiuni dispozitivului dvs. prin suprascrierea fișierelor de sistem.\n\nDoriți să continuați?</string>
   <string name="changelog_title">Istoria schimbărilor</string>
   <string name="welcome_title">Bun venit</string>
-  <string name="welcome_msg">Bine ați venit la managerul de fișiere CyanogenMod.\n\nAceastă aplicație vă permite să explorați sistemul de fișiere și să efectuați operații care ar putea deteriora dispozitivul dvs. Pentru a preveni stricăciunile, aplicația pornește în modul sigur, un mod cu privilegii reduse.\n\nPuteți accesa modul avansat, cu privilegii complete via Setări. Este responsabilitatea dvs să vă asigurați că operațile făcute de dvs nu distrug dispozitivul.\n\nEchipa CyanogenMod</string>
   <string name="activity_not_found_exception">Nu s-a găsit o aplicație pentru a deschide acest fișier</string>
 </resources>

@@ -779,7 +779,7 @@ public class NavigationActivity extends Activity
 
             AlertDialog dialog = DialogHelper.createAlertDialog(this,
                     R.mipmap.ic_launcher_filemanager, R.string.welcome_title,
-                    getString(R.string.welcome_msg), false);
+                    getString(R.string.welcome_msg_mk), false);
             DialogHelper.delegateDialogShow(this, dialog);
 
             // Don't display again this dialog

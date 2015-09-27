@@ -411,10 +411,5 @@
   <string name="security_warning_extract">Attention\u00A0!\n\n Extraire une archive vers un chemin absolu ou relatif peut causer des dommages sur votre appareil en écrasant des fichiers système.\n\nVoulez-vous continuer\u00A0?</string>
   <string name="changelog_title">Note de version</string>
   <string name="welcome_title">Bienvenue</string>
-  <string name="welcome_msg">
-      Bienvenue dans l\'Explorateur de fichiers CyanogenMod.
-      \n\nCette application vous permet d\'explorer le système de fichiers et d\'effectuer des opérations qui pourraient endommager votre appareil. Pour éviter tout dommage, l\'application va démarrer dans un mode sécurisé.
-      \n\nVous pouvez avoir un accés complet, en mode Root via les paramètres de l\'application. Il est de votre responsabilité de veiller à ce que les opérations effectuées n\'endommagent pas votre système.
-      \n\nL\'Équipe CyanogenMod\n</string>
   <string name="activity_not_found_exception">Impossible de trouver une application pour ouvrir ce fichier</string>
 </resources>

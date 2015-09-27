@@ -401,6 +401,5 @@
   <string name="security_warning_extract">Peringatan!\n\nEkstraksi berkas arsip dengan path relatif atau absolut dapat menyebabkan kerusakan perangkat anda karena tertimpanya berkas sistem.\n\nApakah anda ingin melanjutkan?</string>
   <string name="changelog_title">Daftar perubahan</string>
   <string name="welcome_title">Selamat datang</string>
-  <string name="welcome_msg">Selamat datang di manager berkas CyanogenMod.\n\nAplikasi ini memungkinkan anda untuk menjelajahi sistem berkas dan melakukan operasi yang dapat merusak perangkat anda. Untuk mencegah kerusakan, aplikasi akan mulai dengan aman, modus hak-istimewa-rendah.\n\nAnda dapat mengakses modus lanjutan, modus hak-istimewa-penuh melalui Pengaturan. Anda bertanggung jawab untuk memastikan bahwa operasi tidak merusak sistem anda.\n\nTim CyanogenMod</string>
   <string name="activity_not_found_exception">Tidak dapat menemukan sebuah aplikasi untuk membuka file ini</string>
 </resources>

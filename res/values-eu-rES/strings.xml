@@ -402,6 +402,5 @@
   <string name="security_warning_extract">Kontuz!\n\nIbilbide absolutu edo erlatiboak dituzten fitxategiak erauztea gailuan kalteak sor ditzake sistemaren fitxategiak gainidatzi ditzaketelako.\n\nJarraitu?</string>
   <string name="changelog_title">Aldaketa-egunkaria</string>
   <string name="welcome_title">Ongi etorri</string>
-  <string name="welcome_msg">Ongi etorri CyanogenMod fitxategi kudeatzailera.\n\nAplikazio honen bidez fitxategi sistema kudeatu dezakezu eta, honela, zure gailua blokeatu ditzaketen eragiketak burutu. Hau ekiditeko, aplikazioa modu seguruan abiatuko da.\n\nSupererabiltzaile modu aurreratuan sar zaitezke ezarpen menuan hala ezarriz, baina zure ardura izango da operazioren batek zure gailua kaltetzea ekiditea.\n\nCyanogenMod taldea.\n</string>
   <string name="activity_not_found_exception">Ezin izan da aplikazio bat aurkitu fitxategi hau irekitzeko</string>
 </resources>
