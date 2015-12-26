@@ -77,5 +77,4 @@
   <string name="pref_access_mode_root_summary">Modo superusuario\n\n¡Aviso! Este modo permite operaciones que pueden bloquear el dispositivo. Eres responsable de asegurarte que la operación sea segura</string>
   <string name="theme_default_description">Un tema en colores claros para el administrador de archivos de CyanogenMod.</string>
   <string name="secure_storage_open_file_warning">Esto copiará el archivo a una ubicación sin cifrar y será eliminado en una hora.</string>
-  <string name="welcome_msg">Bienvenido al administrador de archivos de CyanogenMod.\n\nEsta aplicación permite explorar el sistema de archivos y con ello, realizar operaciones que podrían bloquear el dispositivo. Para prevenir esta circunstancia, la aplicación se iniciará en modo seguro.\n\nPodrás acceder al modo avanzado de superusuario mediante el menú Ajustes, pero será tu responsabilidad el evitar que una operación dañe el dispositivo.\n\nEl equipo de CyanogenMod.\n</string>
 </resources>

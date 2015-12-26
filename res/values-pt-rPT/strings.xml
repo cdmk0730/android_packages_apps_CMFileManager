@@ -404,6 +404,5 @@
   <string name="security_warning_extract">Aviso!\n\nExtrair um ficheiro de sistema com pastas absolutas ou relativas pode causar problemas no seu dispositivo ao substituir ficheiros de sistema.\n\nDeseja continuar?</string>
   <string name="changelog_title">Lista de alterações</string>
   <string name="welcome_title">Bem-vindo</string>
-  <string name="welcome_msg">Bem-vindo ao Gestor de ficheiros Cyanogenmod.\n\nEsta aplicação permite-lhe explorar o sistema de ficheiros e realizar operações que podem alterar a estabilidade do seu dispositivo. Para previnir falhas, a aplicação irá iniciar num modo de segurança, com poucos privilégios.\n\nPode aceder às definições mais avançadas via Definições. É sua a responsabilidade de garantir que uma operação não afete a estabilidade do seu sistema.\n\nA Equipa CyanogenMod.\n</string>
   <string name="activity_not_found_exception">Não foi encontrada nenhuma aplicação para abrir este ficheiro</string>
 </resources>
