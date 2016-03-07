@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Willkommen beim CyanogenMod Datei Manager. \n\nDiese Applikation erlaubt Ihnen, das Dateisystem zu erforschen, aber auch Operationen die Ihr Gerät beschädigen könnten. Um Beschädigungen zu vermeiden, startet die Applikation in einem sicheren Modus, mit geringen Privilegien. \n\nSie können den Vollzugriff mit allen Privilegien in den Einstellungen Freischalten. Es liegt ihn Ihrer Verantwortung sicherzustellen das Änderungen ihr System nicht gefährden. \n\nOriginal Code vom CyanogenMod Team, modifiziert für MoKee OpenSource.</string>
 </resources>

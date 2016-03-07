@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">오신 것을 환영 합니다 CyanogenMod 파일 manager.\n\nThis 응용 프로그램 파일 시스템을 탐구 하 고 당신의 장치를 깰 수 있는 작업을 할 수 있습니다. 손상을 방지 하려면 응용 프로그램을 시작할 것 이다 안전, 권한이 낮은 mode.\n\nYou 고급, 전체 권한 모드 설정을 통해 액세스할 수 있습니다. 그것은 작업 CyanogenMod 팀, MoKee 오픈 소스에 대 한 수정 system.\n\nOriginal 코드 휴식 하지 않습니다 보장 하기 위해 책임입니다.</string>
 </resources>

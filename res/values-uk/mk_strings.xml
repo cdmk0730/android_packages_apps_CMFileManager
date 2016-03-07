@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Ласкаво просимо до файлового менеджеру CyanogenMod.\n\nЦей додаток дозволяє вам працювати у файловій системі і робити операції, які можуть пошкодити пристрій. Для запобігання пошкодження, почніть працювати у режимі з низьким рівнем привілеїв.\n\nЗмінити рівень привілеїв ви зможете у Налаштуваннях. Всі можливі пошкодження системи повністю на вашої відповідальності.\n\nОригінальній код від CyanogenMod Team, переродлено для MoKee OpenSource.</string>
 </resources>

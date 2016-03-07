@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Bem-vindo ao Gerenciador de arquivo CyanogenMod.\n\n Esse app permite que você explore o sistema de arquivos e fazer operações que poderiam causar danos no seu dispositivo. Para evitar danos, o app vai começar de forma segura, mode.\n\nYou baixo privilégio pode acessar o modo avançado, cheia-privilegiado através de configurações. É sua responsabilidade garantir que uma operação não quebra seu código de system.\n\nOriginal da equipe do CyanogenMod, modificado para MoKee OpenSource.</string>
 </resources>

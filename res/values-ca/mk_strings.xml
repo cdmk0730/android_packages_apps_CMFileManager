@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Benvingut al responsable del fitxer Cyanogenmod.\n\nAquesta aplicació li permet explorar el sistema d\'arxius i fer operacions que podrien trencar el dispositiu. Per evitar danys, l\'aplicació s\'iniciarà en una manera segura, amb pocs privilegis.\n\nNo es pot accedir al mode avançat, amb totes les privilegiada a través de Configuració. És la seva responsabilitat assegurar-se que l\'operació no es trenca el sistema.\n\nUn codi original de Cyanogenmod equip, modificat per Mokee OpenSource.</string>
 </resources>

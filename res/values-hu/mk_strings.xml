@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Üdvözöljük a CyanogenMod fájlkezelőben.\n\nEz az alkalmazás lehetővé teszi, hogy hozzáférjen a fájlrendszerhez, miközben lehetővé tesz kritikus műveleteket is. Az esetleges sérülések elkerülése érdekében, az alkalmazás biztonságos, alacsony jogosultsági szintű módban indul.\n\nA fejlett, teljes-jogú módot a Beállításokban engedélyezheti. Ezt követően viszont az Ön felelőssége annak biztosítása, hogy a műveletek ne okozzanak kárt a rendszerben.\n\nAz eredeti programkód a CyanogenMod csapaté, melyet a nyílt forráskódú MoKee módosított.</string>
 </resources>

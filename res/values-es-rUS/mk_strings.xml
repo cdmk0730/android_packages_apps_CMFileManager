@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Bienvenido al adminsitrador de archivos de CyanogenMod.\n\nEsta aplicación te permite explorar el sistema de archivos y hacer operaciones que pueden dañar tu dispositivo. Para evitar daños, la aplicación se iniciará en modo seguro, sin privilegios.\n\nPuedes acceder al modo avanzado con privilegios, estableciéndolo en ajustes. Llevar a cabo esa acción queda bajo tu responsabilidad.\n\nEl código original proviene del equipo de CyanogenMod, modificado por MoKee OpenSource.</string>
 </resources>

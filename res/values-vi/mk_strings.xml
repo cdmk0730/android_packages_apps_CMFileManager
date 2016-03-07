@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Chào mừng đến với trình quản lý tập tin của CyanogenMod.\n\nỨng dụng này cho phép bạn khám phá hệ thống tập tin và làm những hành động có thể phá vỡ điện thoại của bạn. Để ngăn chặn thiệt hại, các ứng dụng sẽ bắt đầu trong Két an toàn, chế độ đặc quyền thấp.\n\nBạn có thể truy cập vào chế độ nâng cao, đầy đủ đặc quyền thông qua cài đặt. Nó là trách nhiệm của bạn để đảm bảo rằng một hoạt động không phá vỡ mã hệ thống.\n\nNguyên bản từ nhóm CyanogenMod, chỉnh sửa cho mã nguồn mở MoKee.</string>
 </resources>

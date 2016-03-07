@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- Welcome Dialog - Message -->
   <string name="welcome_msg_mk">Vítejte v CyanogenMod správci souborů.\n\nTato aplikace Vám umoží procházet souborový systém a provádět operace, které mohou rozbít vaše zařízení. Aby se zabránilo poškození, aplikce se spustí v bezpečném režimu s nižším oprávněním.\n\nPřes nastavení můžete zvolit pokročilý režim s plnými právy. Je vaší zodpovědoností zajistit, že operace nepoškodí systém.\n\nOriginální kód od týmu CyanogenMod, modifikováno pro MoKee OpenSource.</string>
 </resources>
