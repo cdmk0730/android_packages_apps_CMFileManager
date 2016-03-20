@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Welcome Dialog - Message -->
+  <string name="welcome_msg_mk">CyanogenMod Dosya Yöneticisi\'ne hoşgeldiniz.\n\nBu uygulama dosya sistemini ve cihazınızı kıracak işlemleri yapmanıza imkan verir. Hasarı önlemek için uygulama güvenli, düşük ayrıcalıklı modda başlayacak.\n\nGelişmiş, tam ayrıcalıklı moda Ayarlar\'dan ulaşabilirsiniz. Olabilecek her şey sizin sorumluluğunuzda.\n\nOrjinal kod sahibi CyanogenMod Takımı, MoKee OpenSource tarafından modifiye edildi.</string>
 </resources>
