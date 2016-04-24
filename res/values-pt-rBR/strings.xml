@@ -764,6 +764,5 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Bem-vindo(a)</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Bem-vindo(a) ao gerenciador de arquivos CyanogenMod.\n\nEste aplicativo permite explorar o sistema de arquivos e fazer operações que podem danificar seu dispositivo. Para evitar danos, o aplicativo irá iniciar em modo seguro e com poucos privilégios.\n\nVocê pode acessar o modo avançado, com todos os privilégios através das Configurações. É sua responsabilidade garantir que uma operação não danifique seu sistema.\n\nEquipe CyanogenMod.\n</string>
   <string name="activity_not_found_exception">Não foi possível encontrar um aplicativo para abrir este arquivo</string>
 </resources>

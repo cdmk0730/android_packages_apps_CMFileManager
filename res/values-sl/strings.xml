@@ -764,6 +764,5 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Dobrodošli</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Dobrodošli v upravljalniku datotek CyanogenMod.\n\nTa aplikacija vam dovoli, da raziščete datotečni sistem in izvajate opravila, ki lahko poškodujejo vašo napravo. V izogib škodi se bo aplikacija začela v varnem načinu z nizkimi dovoljenji.\n\nDo naprednega načina z visokimi dovoljenji lahko dostopate v nastavitvah. Vaša odgovornost je zagotoviti, da opravilo ne poškoduje vašega sistema.\n\nEkipa CyanogenMod</string>
   <string name="activity_not_found_exception">Za odpiranje te datoteke ni bilo mogoče najti aplikacije</string>
 </resources>

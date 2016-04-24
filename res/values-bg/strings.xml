@@ -764,6 +764,5 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Добре дошли</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Добре дошли във файловия мениджър на CyanogenMod.\n\nТова приложение Ви позволява да проучите файловата система и позволява операции, които могат да блокират вашето устройство. За да предотврати повреда, приложението ще започне в сигурен ниско правен режим.\n\nВие може да влезете в администраторски режим чрез настройките, но на своя отговорност.\n\nThe CyanogenMod Team</string>
   <string name="activity_not_found_exception">Не може да намери приложение, за отварянето на този файл</string>
 </resources>

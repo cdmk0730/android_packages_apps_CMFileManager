@@ -764,6 +764,5 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Willkommen</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Willkommen beim CyanogenMod-Dateimanager.\n\nMit dieser App können Sie im Dateisystem navigieren und dabei Vorgänge ausführen, die das Gerät beschädigen könnten. Zum Schutz des Geräts startet die App im sicheren Modus mit eingeschränkten Berechtigungen.\n\nErweiterte Modi mit vollen Berechtigungen können in den Einstellungen aktiviert werden.\n\nDas CyanogenMod-Team</string>
   <string name="activity_not_found_exception">Es konnte keine App zum Öffnen dieser Datei gefunden werden.</string>
 </resources>

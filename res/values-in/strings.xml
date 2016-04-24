@@ -764,6 +764,5 @@
   <!-- Welcome Dialog - Title -->
   <string name="welcome_title">Selamat datang</string>
   <!-- Welcome Dialog - Message -->
-  <string name="welcome_msg">Selamat datang di manjer berkas CyanogenMod.\n\nAplikasi ini memungkinkan Anda untuk menjelajahi sistem berkas dan melakukan operasi yang dapat merusak perangkat Anda. Untuk mencegah kerusakan, aplikasi akan mulai dengan aman, modus hak-istimewa-rendah.\n\nAnda dapat mengakses modus lanjutan, modus hak-istimewa-penuh melalui Pengaturan. Anda bertanggung jawab untuk memastikan bahwa operasi tidak merusak sistem Anda.\n\nTim CyanogenMod</string>
   <string name="activity_not_found_exception">Tidak dapat menemukan sebuah aplikasi untuk membuka berkas ini</string>
 </resources>
